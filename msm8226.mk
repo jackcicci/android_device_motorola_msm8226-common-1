@@ -83,9 +83,13 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     libxml2 \
     camera.msm8226 \
     Snap
+=======
+    libxml2
+>>>>>>> parent of 9389727... msm8226-common: Bring back the common camera wrapper
 
 # Display
 PRODUCT_PACKAGES += \
